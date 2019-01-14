@@ -1,2 +1,2 @@
 # hello-world
-Intro to github
+Completing the introduction to github.
